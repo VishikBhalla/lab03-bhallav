@@ -1,0 +1,25 @@
+1. initial value: empty
+ 24 bytes added
+3 at top of stack
+2 second value
+ 
+1 2 in rbx
+
+My hypotheses were correct for this
+
+2. adress is 0x8B052
+
+   content of address is nothing
+
+  actul values ended up being completely different from guess.
+
+3. nothing at top of stack
+   address is 0x0
+
+   current stack pointer is 0x1
+
+ actual values ended up being completely different.
+
+4. THey are in different states
+
+  actual states were indeed different.
